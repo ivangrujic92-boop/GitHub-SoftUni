@@ -1,2 +1,2 @@
 README fajl
-# Ovo je feature-branch-1 README fajl
+# Ovo je izmenjeno na feature-branch-3 README fajl
